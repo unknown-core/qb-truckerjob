@@ -1,4 +1,4 @@
-Config = {}
+Config = {} 
 
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true'
 
